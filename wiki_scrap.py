@@ -9,7 +9,7 @@ import os
 
 INPUT_JSON_FILE = 'leaders.json'
 
-DELAY = 0.01  # Delay for web scraping (in seconds)
+DELAY = 1  # Delay for web scraping (in seconds)
 
 ####################################
 
